@@ -7,9 +7,10 @@
 [ddclock](https://github.com/rty65tt/ddclock)
 
 ## ScreeSaver Win
+[digitalwatch.scr](https://github.com/rty65tt/digitalwatch.scr)
+
 [stClock.scr](https://github.com/rty65tt/stClock.scr)
 
-[digitalwatch.scr](https://github.com/rty65tt/digitalwatch.scr)
 
 ## ScreeSaver Mac
 [matrixwatchGL.saver](https://github.com/rty65tt/matrixwatchGL.saver)
