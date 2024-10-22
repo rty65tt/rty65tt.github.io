@@ -3,7 +3,7 @@
 ## Audio plugin
 [AudioAnalyzer](https://github.com/rty65tt/AudioAnalyzer)
 
-## Clock
+## Desktop Clock (WinAPI)
 [ddclock](https://github.com/rty65tt/ddclock)
 
 ## ScreeSaver Win
@@ -14,6 +14,7 @@
 [matrixwatchGL.saver](https://github.com/rty65tt/matrixwatchGL.saver)
 [digitalwatchGL.saver](https://github.com/rty65tt/digitalwatchGL.saver)
 
+## Firefox addons
 [firefox-addon-boostyoutube](https://github.com/rty65tt/firefox-addon-boostyoutube)
 [translateselectedtext](https://github.com/rty65tt/firefox-addon-translateselectedtext)
 [nanogesture](https://github.com/rty65tt/firefox-addon-nanogesture)
